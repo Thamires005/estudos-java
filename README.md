@@ -1,2 +1,2 @@
-# estudos-java
-Repositório dedicado para estudos da linguagem Java
+# Estudos dedicados para java
+Repositório dedicado para estudos e prática da linguagem Java
